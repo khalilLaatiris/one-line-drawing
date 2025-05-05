@@ -35,12 +35,9 @@ Parameters:
 ---
 
 ## Screenshots
-![sample 1](screenshots/Screenshot 2025-05-05 183648.png)
-![sample 2](screenshots/Screenshot 2025-05-05 183716.png)
-![sample 3](screenshots/Screenshot 2025-05-05 183730.png)
-![sample 4](screenshots/Screenshot 2025-05-05 183821.png)
-![sample 5](screenshots/Screenshot 2025-05-05 183748.png)
-![sample 6](screenshots/Screenshot 2025-05-05 183800.png)
+![sample 1](screenshots/Screenshot_183648.png)
+![sample 2](screenshots/Screenshot_183716.png)
+![sample 3](screenshots/Screenshot_183730.png)
 
 ---
 
@@ -48,5 +45,4 @@ Parameters:
 - sketch_generator.py (CLI implementation)
 - sketch_tkinter.py (GUI implementation)
 - README.md (documentation)
-=======
 # one-line-drawing
