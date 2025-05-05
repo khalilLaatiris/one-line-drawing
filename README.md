@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Image to Sketch Converter (CLI + GUI)
 
 ## Description
@@ -46,3 +47,6 @@ Parameters:
 - sketch_tkinter.py (GUI implementation)
 - requirements.txt (dependencies)
 - README.md (documentation)
+=======
+# one-line-drawing
+>>>>>>> 0e147195ff34a52d24c7ff0f6f4f1e4dd7fdb169
