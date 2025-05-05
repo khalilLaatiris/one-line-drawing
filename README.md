@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project: Image to Sketch Converter (CLI + GUI)
 
 ## Description
@@ -36,17 +35,18 @@ Parameters:
 ---
 
 ## Screenshots
-![Sample 1](screenshots/sample1.png)
-![Sample 2](screenshots/sample2.png)
-![Sample 3](screenshots/sample3.png)
+![sample 1](screenshots/Screenshot 2025-05-05 183648.png)
+![sample 2](screenshots/Screenshot 2025-05-05 183716.png)
+![sample 3](screenshots/Screenshot 2025-05-05 183730.png)
+![sample 4](screenshots/Screenshot 2025-05-05 183821.png)
+![sample 5](screenshots/Screenshot 2025-05-05 183748.png)
+![sample 6](screenshots/Screenshot 2025-05-05 183800.png)
 
 ---
 
 ## Files
 - sketch_generator.py (CLI implementation)
 - sketch_tkinter.py (GUI implementation)
-- requirements.txt (dependencies)
 - README.md (documentation)
 =======
 # one-line-drawing
->>>>>>> 0e147195ff34a52d24c7ff0f6f4f1e4dd7fdb169
