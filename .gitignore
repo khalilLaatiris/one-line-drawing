@@ -1,0 +1,11 @@
+include
+input
+lib
+output
+Scripts
+share
+pyvenv.cfg
+run_sketch_generator.sh
+*.log
+sketch.py
+Using PyTorch and pretrained HED.py
